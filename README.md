@@ -190,7 +190,7 @@ opspilot-ai/
 
 #### 1. Clone or Open the Repository
 ```powershell
-cd "c:\Users\apste\Desktop\Sania\3RD YEAR\PROJECTS\opspilot-ai"
+cd "directory\opspilot-ai"
 ```
 
 #### 2. Set Up the Python Virtual Environment
