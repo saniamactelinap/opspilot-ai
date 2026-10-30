@@ -7,8 +7,11 @@
 [![Vite](https://img.shields.io/badge/Bundler-Vite%208-646CFF?logo=vite)](https://vitejs.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](DEPLOYMENT.md)
 [![Tests Passing](https://img.shields.io/badge/Tests-31%2F31%20Passed-brightgreen)](backend/tests/)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Google%20Drive-E37400?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1v03oJmIqFBAeXoDwJh7Vc32NCy9sURp9/view?usp=sharing)
 
 > **Autonomous Incident Triage • Upstream-to-Downstream Lineage Impact Analysis • Human-in-the-Loop Recovery • Automated Invariant Verification**
+
+> 🎥 **Walkthrough Video:** [Watch the OpsPilot AI End-to-End Demo on Google Drive](https://drive.google.com/file/d/1v03oJmIqFBAeXoDwJh7Vc32NCy9sURp9/view?usp=sharing)
 
 ---
 
@@ -158,6 +161,9 @@ cd ..
 ---
 
 ## 🎯 Usage Guide & Interactive Demo Walkthrough
+
+> 🎬 **Watch the Demo:** A full recording of the platform in action is available at:  
+> 👉 **[OpsPilot AI Interactive Video Demonstration (Google Drive)](https://drive.google.com/file/d/1v03oJmIqFBAeXoDwJh7Vc32NCy9sURp9/view?usp=sharing)**
 
 Follow this 3-minute guided workflow to test the full lifecycle:
 
